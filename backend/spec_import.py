@@ -1,1 +1,1 @@
-# Extract text from uploaded specs (placeholder)
+# Extract text from uploaded specs; flag PDFs with no text layer (placeholder)

@@ -1,0 +1,1 @@
+// Milestone detail page (placeholder)
